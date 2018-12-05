@@ -44,5 +44,5 @@ $(document).ready(function() {
 				calculateFV(investment,addition,rate,years);
 		}
 	});
-    $("#investment").focus();
+		$("#investment").focus();
 });

@@ -4,11 +4,14 @@ main {
 	width: 400px;
     margin: 0 auto;
 	padding: 0 2em 1em;
-    border: 3px solid blue;
+    border: 3px solid black;
+    border-radius: 25px;
+    box-shadow: 2px 1px 1px blue;
 }
 h1 {
 	color: blue;
-	margin-bottom: .25em;
+    margin-bottom: .25em;
+    text-shadow: 2px 1px 1px blue;
 }
 label {
 	float: left;
